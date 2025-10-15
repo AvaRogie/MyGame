@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: c300b5b619f67bb45b06ef375e862f7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2770107198557397088
+    second: Death_recolor_0
+  - first:
+      213: -9065709308087703570
+    second: Death_recolor_1
+  - first:
+      213: 77317537680453827
+    second: Death_recolor_2
+  - first:
+      213: -328155791741101777
+    second: Death_recolor_3
+  - first:
+      213: 355323607204283252
+    second: Death_recolor_4
+  - first:
+      213: -995494576347053284
+    second: Death_recolor_5
+  - first:
+      213: -4492396371286720640
+    second: Death_recolor_6
+  - first:
+      213: -6866363030581564752
+    second: Death_recolor_7
+  - first:
+      213: -2890454489028853741
+    second: Death_recolor_8
+  - first:
+      213: -3887396253089570574
+    second: Death_recolor_9
+  - first:
+      213: -6571101835241138133
+    second: Death_recolor_10
+  - first:
+      213: -5082740660772143617
+    second: Death_recolor_11
+  - first:
+      213: 3799297769156633836
+    second: Death_recolor_12
+  - first:
+      213: 2437223650059384590
+    second: Death_recolor_13
+  - first:
+      213: 4133597273391277046
+    second: Death_recolor_14
+  - first:
+      213: 7310722018164740413
+    second: Death_recolor_15
+  - first:
+      213: 4155521119103426155
+    second: Death_recolor_16
+  - first:
+      213: -4085327807820221440
+    second: Death_recolor_17
+  - first:
+      213: -4469603569529834773
+    second: Death_recolor_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death_recolor_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afdb38fd2a9e89d0800000000000000
+      internalID: -2770107198557397088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7ea7e9a61203280800000000000000
+      internalID: -9065709308087703570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0f95014efa21100800000000000000
+      internalID: 77317537680453827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 63
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29d84acb08227bf0800000000000000
+      internalID: -328155791741101777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 63
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473c8bb20fc5ee400800000000000000
+      internalID: 355323607204283252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 63
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13810905fa4f22f0800000000000000
+      internalID: -995494576347053284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 63
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f73335d4dc7a1c0800000000000000
+      internalID: -4492396371286720640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_7
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 63
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baaf470437c5b0a0800000000000000
+      internalID: -6866363030581564752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_8
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 63
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310800ed4fa03e7d0800000000000000
+      internalID: -2890454489028853741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_9
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 63
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0696144b13d0ac0800000000000000
+      internalID: -3887396253089570574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_10
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 73
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28d88f22b1cec4a0800000000000000
+      internalID: -6571101835241138133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_11
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 81
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdfd3d6c4a7679b0800000000000000
+      internalID: -5082740660772143617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_12
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 70
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4e3860131d9b430800000000000000
+      internalID: 3799297769156633836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_13
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 63
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0778fb2ff1c2d120800000000000000
+      internalID: 2437223650059384590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_14
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 72
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a205c1dc7d5930800000000000000
+      internalID: 4133597273391277046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_15
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 63
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31165011f6e47560800000000000000
+      internalID: 7310722018164740413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_16
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 63
+        width: 582
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e1bc0e0706ba930800000000000000
+      internalID: 4155521119103426155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004b9d7f0000e47c0800000000000000
+      internalID: -4085327807820221440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_recolor_18
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be23b570c37c8f1c0800000000000000
+      internalID: -4469603569529834773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Death_recolor_0: -2770107198557397088
+      Death_recolor_1: -9065709308087703570
+      Death_recolor_10: -6571101835241138133
+      Death_recolor_11: -5082740660772143617
+      Death_recolor_12: 3799297769156633836
+      Death_recolor_13: 2437223650059384590
+      Death_recolor_14: 4133597273391277046
+      Death_recolor_15: 7310722018164740413
+      Death_recolor_16: 4155521119103426155
+      Death_recolor_17: -4085327807820221440
+      Death_recolor_18: -4469603569529834773
+      Death_recolor_2: 77317537680453827
+      Death_recolor_3: -328155791741101777
+      Death_recolor_4: 355323607204283252
+      Death_recolor_5: -995494576347053284
+      Death_recolor_6: -4492396371286720640
+      Death_recolor_7: -6866363030581564752
+      Death_recolor_8: -2890454489028853741
+      Death_recolor_9: -3887396253089570574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
